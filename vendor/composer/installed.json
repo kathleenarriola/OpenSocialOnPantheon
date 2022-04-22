@@ -674,8 +674,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/jackmoore/autosize/zipball/113f1b345868901619d4b01cda02b09aa1690ebd",
-            "reference": "113f1b345868901619d4b01cda02b09aa1690ebd",
-            "shasum": null
+            "reference": "113f1b345868901619d4b01cda02b09aa1690ebd"
         },
         "type": "bower-asset",
         "installation-source": "dist",
@@ -695,8 +694,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/twbs/bootstrap/zipball/0b9c4a4007c44201dce9a6cc1a38407005c26c86",
-            "reference": "0b9c4a4007c44201dce9a6cc1a38407005c26c86",
-            "shasum": null
+            "reference": "0b9c4a4007c44201dce9a6cc1a38407005c26c86"
         },
         "require": {
             "bower-asset/jquery": ">=1.9.1,<4.0"
@@ -719,8 +717,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/mbostock-bower/d3-bower/zipball/7a826d211d5067867debf9ce24a9987e0cb02b6e",
-            "reference": "7a826d211d5067867debf9ce24a9987e0cb02b6e",
-            "shasum": null
+            "reference": "7a826d211d5067867debf9ce24a9987e0cb02b6e"
         },
         "type": "bower-asset",
         "installation-source": "dist",
@@ -740,8 +737,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/tomasAlabes/eve/zipball/93132d5d47a0ce31dbd1b75208b1d4c0e2ad81e8",
-            "reference": "93132d5d47a0ce31dbd1b75208b1d4c0e2ad81e8",
-            "shasum": null
+            "reference": "93132d5d47a0ce31dbd1b75208b1d4c0e2ad81e8"
         },
         "type": "bower-asset",
         "installation-source": "dist",
@@ -761,8 +757,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/highlightjs/highlight.js/zipball/bb1cdfe052cd6c98e0d1d61f16dff9f1d2d57ffc",
-            "reference": "bb1cdfe052cd6c98e0d1d61f16dff9f1d2d57ffc",
-            "shasum": null
+            "reference": "bb1cdfe052cd6c98e0d1d61f16dff9f1d2d57ffc"
         },
         "type": "bower-asset",
         "installation-source": "dist"
@@ -779,8 +774,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/jquery/jquery-dist/zipball/9e8ec3d10fad04748176144f108d7355662ae75e",
-            "reference": "9e8ec3d10fad04748176144f108d7355662ae75e",
-            "shasum": null
+            "reference": "9e8ec3d10fad04748176144f108d7355662ae75e"
         },
         "type": "bower-asset",
         "installation-source": "dist",
@@ -800,8 +794,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/mochajs/mocha/zipball/7fc565ee3e225cb7a66bf39ae9c2c05b346675c1",
-            "reference": "7fc565ee3e225cb7a66bf39ae9c2c05b346675c1",
-            "shasum": null
+            "reference": "7fc565ee3e225cb7a66bf39ae9c2c05b346675c1"
         },
         "type": "bower-asset",
         "installation-source": "dist"
@@ -818,8 +811,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/oesmith/morris.js/zipball/d5cf1410eda7055eaf2c7d218d4cb24ec5ed55c8",
-            "reference": "d5cf1410eda7055eaf2c7d218d4cb24ec5ed55c8",
-            "shasum": null
+            "reference": "d5cf1410eda7055eaf2c7d218d4cb24ec5ed55c8"
         },
         "require": {
             "bower-asset/jquery": ">=2.1.0",
@@ -841,8 +833,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/DmitryBaranovskiy/raphael/zipball/c02b9c125d036e42b9bb95d0e401bbf6a5153da5",
-            "reference": "c02b9c125d036e42b9bb95d0e401bbf6a5153da5",
-            "shasum": null
+            "reference": "c02b9c125d036e42b9bb95d0e401bbf6a5153da5"
         },
         "require": {
             "bower-asset/eve-raphael": "0.5.0"
@@ -865,8 +856,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/scottjehl/Respond/zipball/20b7f4a192bb910c8c7e067b961de38519d334e4",
-            "reference": "20b7f4a192bb910c8c7e067b961de38519d334e4",
-            "shasum": null
+            "reference": "20b7f4a192bb910c8c7e067b961de38519d334e4"
         },
         "type": "bower-asset",
         "installation-source": "dist"
@@ -883,8 +873,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/select2/select2/zipball/566c7846fbf8c3b7674346f26d0ee872c0a77629",
-            "reference": "566c7846fbf8c3b7674346f26d0ee872c0a77629",
-            "shasum": null
+            "reference": "566c7846fbf8c3b7674346f26d0ee872c0a77629"
         },
         "type": "bower-asset",
         "installation-source": "dist"
@@ -901,8 +890,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/filamentgroup/tablesaw/zipball/5bfebe20c539c18aecb4881a14c6bab5cfa3cb46",
-            "reference": "5bfebe20c539c18aecb4881a14c6bab5cfa3cb46",
-            "shasum": null
+            "reference": "5bfebe20c539c18aecb4881a14c6bab5cfa3cb46"
         },
         "require": {
             "bower-asset/jquery": ">=1.11.2",
@@ -923,8 +911,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/jonthornton/jquery-timepicker/zipball/e0ac33d4b85f1be3a107e5bd6174c6672b27ec34",
-            "reference": "e0ac33d4b85f1be3a107e5bd6174c6672b27ec34",
-            "shasum": null
+            "reference": "e0ac33d4b85f1be3a107e5bd6174c6672b27ec34"
         },
         "require": {
             "bower-asset/jquery": ">=1.7"
@@ -947,8 +934,7 @@
         "dist": {
             "type": "zip",
             "url": "https://api.github.com/repos/fians/Waves/zipball/1985b7e18327f86f1bb640efe3a2ab4b4fea4078",
-            "reference": "1985b7e18327f86f1bb640efe3a2ab4b4fea4078",
-            "shasum": null
+            "reference": "1985b7e18327f86f1bb640efe3a2ab4b4fea4078"
         },
         "type": "bower-asset",
         "installation-source": "dist",
@@ -7494,9 +7480,7 @@
         "version_normalized": "3.5.0.0",
         "dist": {
             "type": "tar",
-            "url": "https://registry.npmjs.org/diff/-/diff-3.5.0.tgz",
-            "reference": null,
-            "shasum": null
+            "url": "https://registry.npmjs.org/diff/-/diff-3.5.0.tgz"
         },
         "type": "npm-asset",
         "installation-source": "dist",
@@ -7510,9 +7494,7 @@
         "version_normalized": "0.3.1.0",
         "dist": {
             "type": "tar",
-            "url": "https://registry.npmjs.org/jquery.caret/-/jquery.caret-0.3.1.tgz",
-            "reference": null,
-            "shasum": null
+            "url": "https://registry.npmjs.org/jquery.caret/-/jquery.caret-0.3.1.tgz"
         },
         "type": "npm-asset",
         "installation-source": "dist",
@@ -7526,9 +7508,7 @@
         "version_normalized": "4.1.2.0",
         "dist": {
             "type": "tar",
-            "url": "https://registry.npmjs.org/photoswipe/-/photoswipe-4.1.2.tgz",
-            "reference": null,
-            "shasum": null
+            "url": "https://registry.npmjs.org/photoswipe/-/photoswipe-4.1.2.tgz"
         },
         "type": "npm-asset",
         "installation-source": "dist",
